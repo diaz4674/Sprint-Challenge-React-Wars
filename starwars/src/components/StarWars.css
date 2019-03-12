@@ -8,7 +8,7 @@
 
 h2 {
     background-color: gray;
-    width: 350px;
+    width: 75%;
     padding: 5px;
     margin: 0 auto;
     border-radius: 9px;
@@ -17,7 +17,7 @@ h2 {
 
 .charDescription {
     background-color: gray;
-    width: 350px;
+    width: 75%;
     padding: 5px;
     color: white;
     border-radius: 9px;
